@@ -1,8 +1,14 @@
 p {
 	font-family: sans-serif;
-	color: #0000FF;
-}
+color: #000000;}
 #awesomeText {font-family: 'Times New Roman',Georgia, Serif;}
 .soft {color: #a8a8a8;}
 .center {text-align: center;}
+table, th, td {
+	border: 2px solid black;
+}
+IMG.align {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;}
 .container {margin: 0 auto;}
